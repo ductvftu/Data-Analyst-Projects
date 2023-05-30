@@ -8,6 +8,8 @@
 
 <br>
 Prosper Loans dataset used for the analysis is hosted [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv).
+
+
 ## Summary of Findings
 
 > Through my analysis, i found that there are strong links between the Loan Risk Rating system and borrower's background including income range , income verification, home ownership, occupation... . I also found that better rating loans are associate with higher loan value and lower interest rate, this is normal considering the obvious loan strategy that for riskier loan that the borrower is more likely to be able to pay, the interst rate should be high to earn as much as possible in case the loan goes faulty and the amount should be low to minimize the damage. I also found that the rating system work well, since better rating is associated with less fautly cases. And the faulty loans are highly associated with higher interest rate accross all rating.
