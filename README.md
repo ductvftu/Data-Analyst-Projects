@@ -1,6 +1,6 @@
 # DATA ANALYST PROJECTS
 This Repository contains my projects within my Data Analyst nanodegree program on Udacity.
-The Projects are done with some guidances of the intructors and are eveluated to meet certain requirements for my graduation of the program. The dataset are provided by the platform.
+The Projects are done with some guidances of the intructors and are evaluated to meet certain requirements for my graduation of the program. The dataset are provided by the platform.
 
 ## P1: Investigate a Dataset
 Analyze a dataset and communicate your findings about it. Use the Python libraries NumPy, pandas, and Matplotlib. Go through the whole data analysis process from posing questions about the data to presenting your answers based on the analysis.
